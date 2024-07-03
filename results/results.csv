@@ -1,0 +1,7 @@
+dataset,accuracy,encoding,args
+glass,0.2461538463830948,record,"Namespace(dataset='glass', encoding='record')"
+glass,0.20000000298023224,ngrams,"Namespace(dataset='glass', encoding='ngrams')"
+hepatitis,0.8926553726196289,record,"Namespace(dataset='hepatitis', encoding='record')"
+hepatitis,0.8926553726196289,ngrams,"Namespace(dataset='hepatitis', encoding='ngrams')"
+abalone,0.08771929889917374,record,"Namespace(dataset='abalone', encoding='record')"
+abalone,0.08452950417995453,ngrams,"Namespace(dataset='abalone', encoding='ngrams')"
