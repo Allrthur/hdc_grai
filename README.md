@@ -21,3 +21,5 @@ Para a opção encoding são suportadas as opções:
 O programa salva a acuracia na tabela "results.csv", caso o arquivo não exista, ele é criado.
 
 Já disponível nessa versão há experimentos preliminares com os datasets glass, hepatitis e abalone, comparando a acurácia para cada opção de encoding.
+
+DISCLAIMER: Nesta versão, o uso da GPU não é suportado.
